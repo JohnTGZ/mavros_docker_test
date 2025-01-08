@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/john/gestelt_ws/install/px4_msgs/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/minco_interfaces/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/mavros/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/mavros_msgs/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/linear_mpc_controller/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/build/gestelt_mission",
+        "/home/john/gestelt_ws/install/gestelt_mission/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/gestelt_interfaces/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/decomp_ros_msgs/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/john/gestelt_ws/install/px4_msgs/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/minco_interfaces/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/mavros/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/mavros_msgs/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/linear_mpc_controller/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/build/gestelt_mission",
+        "/home/john/gestelt_ws/install/gestelt_mission/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/gestelt_interfaces/lib/python3.12/site-packages",
+        "/home/john/gestelt_ws/install/decomp_ros_msgs/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/john/gestelt_ws/install/voxel_map/include/**",
+        "/home/john/gestelt_ws/install/viz_helper/include/**",
+        "/home/john/gestelt_ws/install/trajectory_server/include/**",
+        "/home/john/gestelt_ws/install/space_time_astar/include/**",
+        "/home/john/gestelt_ws/install/px4_msgs/include/**",
+        "/home/john/gestelt_ws/install/pvaj_mpc/include/**",
+        "/home/john/gestelt_ws/install/polytope_sfc_gen/include/**",
+        "/home/john/gestelt_ws/install/dynamic_voronoi/include/**",
+        "/home/john/gestelt_ws/install/planner_utils/include/**",
+        "/home/john/gestelt_ws/install/octomap_rviz_plugins/include/**",
+        "/home/john/gestelt_ws/install/minco_traj_gen/include/**",
+        "/home/john/gestelt_ws/install/minco_interfaces/include/**",
+        "/home/john/gestelt_ws/install/mavros/include/**",
+        "/home/john/gestelt_ws/install/mavros_msgs/include/**",
+        "/home/john/gestelt_ws/install/logger_wrapper/include/**",
+        "/home/john/gestelt_ws/install/libmavconn/include/**",
+        "/home/john/gestelt_ws/install/ikd_tree/include/**",
+        "/home/john/gestelt_ws/install/gestelt_interfaces/include/**",
+        "/home/john/gestelt_ws/install/decomp_ros_utils/include/**",
+        "/home/john/gestelt_ws/install/decomp_util/include/**",
+        "/home/john/gestelt_ws/install/decomp_ros_msgs/include/**",
+        "/home/john/gestelt_ws/install/bonxai/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/john/mavros_docker/src/mavros_docker_test/mavros_bridge/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
